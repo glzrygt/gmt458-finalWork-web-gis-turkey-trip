@@ -1,5 +1,5 @@
 # Turkey Trip – Full Stack Web GIS Game
-
+👉 https://main.drz4hngnyw4u5.amplifyapp.com
 ## Project Overview
 Turkey Trip is a full-stack Web GIS game developed as the final project for the
 GMT 458 – Web GIS course. The application combines interactive mapping,
